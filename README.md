@@ -15,7 +15,7 @@ Self-taught developer with a passion for exploring the ever-evolving realm of te
   </a>
 </p>
 
-<img src='https://drive.google.com/file/d/1CSZKviSsMGGkBkQDa5cuNJnuDxVu9Mm6/view?usp=sharing' style='border: solid green 10px' />
+<img src='https://drive.google.com/file/d/1CSZKviSsMGGkBkQDa5cuNJnuDxVu9Mm6/view?usp=sharing.png' style='border: solid green 10px' />
 
 
 <!-- [Node.js Developer](https://live.staticflickr.com/65535/52946924761_e71af25781_o.png) -->
