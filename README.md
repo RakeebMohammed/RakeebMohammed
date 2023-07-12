@@ -11,11 +11,11 @@ Self-taught developer with a passion for exploring the ever-evolving realm of te
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nodejs,mongodb,js,ts,html,css,express,figma,firebase,git,github,md,netlify,react,redux,,vscode,postman,babel,webpack,bootstrap,tailwind,mui,aws" />
+    <img src="https://skillicons.dev/icons?i=nodejs,mongodb,js,ts,html,css,express,figma,firebase,git,github,md,netlify,react,redux,vscode,postman,babel,webpack,bootstrap,tailwind,mui,aws" />
   </a>
 </p>
 
-<img src='https://drive.google.com/file/d/1CSZKviSsMGGkBkQDa5cuNJnuDxVu9Mm6/view?usp=drive_link.png' style='border: solid green 10px' />
+<img src='https://drive.google.com/file/d/1CSZKviSsMGGkBkQDa5cuNJnuDxVu9Mm6/view?usp=sharing' style='border: solid green 10px' />
 
 
 <!-- [Node.js Developer](https://live.staticflickr.com/65535/52946924761_e71af25781_o.png) -->
