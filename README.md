@@ -11,7 +11,7 @@ Self-taught developer with a passion for exploring the ever-evolving realm of te
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nodejs,mongodb,js,ts,html,css,express,figma,firebase,git,github,linux,md,netlify,react,redux,nextjs,vite,vscode,postman,babel,webpack,bootstrap,tailwind,cloudflare,vim,aws" />
+    <img src="https://skillicons.dev/icons?i=nodejs,mongodb,js,ts,html,css,express,figma,firebase,git,github,md,netlify,react,redux,,vscode,postman,babel,webpack,bootstrap,tailwind,mui,aws" />
   </a>
 </p>
 
@@ -42,17 +42,9 @@ Self-taught developer with a passion for exploring the ever-evolving realm of te
 <img width='49%' align="center"src="https://github-readme-stats.vercel.app/api/pin/?username=RakeebMohammed&repo=Dana-Store&border_color=02D892&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=02D892" />
 </a>
 <span>&nbsp;</span>
-<a href="https://github.com/Riyas-iqbal/express-boilerplate">
-<img width='49%' align="center"src="https://github-readme-stats.vercel.app/api/pin/?username=Riyas-iqbal&repo=express-boilerplate&border_color=02D892&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=02D892" />
+<a href="https://github.com/RakeebMohammed/Expense_Tracker">
+<img width='49%' align="center"src="https://github-readme-stats.vercel.app/api/pin/?username=RakeebMohammed&repo=Expense_Tracker&border_color=02D892&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=02D892" />
 </a>
 </p>
 
-<p align="center">
-<a href="https://github.com/Riyas-iqbal/NextGen-Store">
-<img width='49%' align="center"src="https://github-readme-stats.vercel.app/api/pin/?username=Riyas-iqbal&repo=NextGen-Store&border_color=02D892&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=02D892" />
-</a>
-<span>&nbsp;</span>
-<a href="https://github.com/Riyas-iqbal/User-management-system">
-<img width='49%' align="center"src="https://github-readme-stats.vercel.app/api/pin/?username=Riyas-iqbal&repo=User-management-system&border_color=02D892&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=02D892" />
-</a>
-</p>
+
