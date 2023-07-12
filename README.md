@@ -1,6 +1,6 @@
 ### Hi there 👋, My Name is **Rakeeb Mohammed**
     
-<img src='https://komarev.com/ghpvc/?username=Riyas-iqbal&color=green' align='right' style='border: solid green 10px'/>
+<img src='https://komarev.com/ghpvc/?username=RakeebMohammed&color=green' align='right' style='border: solid green 10px'/>
 <h3>
 <!-- <a href="https://riyas-iqbal.netlify.app">Portfolio</a> -->
 </h3>
@@ -15,7 +15,7 @@ Self-taught developer with a passion for exploring the ever-evolving realm of te
   </a>
 </p>
 
-<img src='https://drive.google.com/file/d/1CSZKviSsMGGkBkQDa5cuNJnuDxVu9Mm6/view?usp=drive_link' style='border: solid green 10px' />
+<img src='https://drive.google.com/file/d/1CSZKviSsMGGkBkQDa5cuNJnuDxVu9Mm6/view?usp=drive_link.png' style='border: solid green 10px' />
 
 
 <!-- [Node.js Developer](https://live.staticflickr.com/65535/52946924761_e71af25781_o.png) -->
