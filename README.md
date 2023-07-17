@@ -2,7 +2,7 @@
     
 <img src='https://komarev.com/ghpvc/?username=RakeebMohammed&color=green' align='right' style='border: solid green 10px'/>
 <h3>
-<!-- <a href="https://riyas-iqbal.netlify.app">Portfolio</a> -->
+<a href="https://rakeeb-mohammed.netlify.app/">Portfolio</a>
 </h3>
 
 <!-- [Portfolio](https://riyas-iqbal.netlify.app) -->
