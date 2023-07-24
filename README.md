@@ -19,7 +19,7 @@ Self-taught developer with a passion for exploring the ever-evolving realm of te
 
 
 <!-- [Node.js Developer](https://live.staticflickr.com/65535/52946924761_e71af25781_o.png) -->
-- 🔭 I’m currently working on [Memories](https://github.com/Riyas-iqbal/Theora) Social media platform
+- 🔭 I’m currently working on [Memories](https://github.com/RakeebMohammed/Dhikrayat) Social media platform
 - 🌱 I’m currently learning Typescript and Clean Architeture
 - 👯 I’m looking to collaborate on JavaScript, React, ..etc
 - 💬 Ask me about anything😂
